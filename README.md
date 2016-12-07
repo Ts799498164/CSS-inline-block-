@@ -68,4 +68,5 @@ inline-block元素间间隔大小与字体和文字大小之前的关系表截�
 ![Alt text](https://github.com/Ts799498164/image-folder/blob/master/inline14.png)   
 #### 八、结语
 其他去除间距的方法肯定还有，欢迎大家补充。上文部分方法可能有测试不周全之处，因此，部分细节上可能会有纰漏，欢迎指正。     
- [参考文章：Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)    [参考资料:去除inline-block元素间间距的N种方法](http://www.zhangxinxu.com/wordpress/2012/04/inline-block-space-remove-%E5%8E%BB%E9%99%A4%E9%97%B4%E8%B7%9D/)
+ [参考文章：Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)        
+ [参考资料:去除inline-block元素间间距的N种方法](http://www.zhangxinxu.com/wordpress/2012/04/inline-block-space-remove-%E5%8E%BB%E9%99%A4%E9%97%B4%E8%B7%9D/)
